@@ -2,7 +2,7 @@
 //font-family: 'Poppins', sans-serif;  */
 
 body {
-  background: #f9f7fe;
+  background: white;
 }
 
 h1 {
@@ -14,4 +14,13 @@ h1 {
 p {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
+}
+
+.hero {
+  background: #f9f7fe;
+  text-align: center;
+}
+
+.hero p {
+  font-family: "Playfair Display", serif;
 }
