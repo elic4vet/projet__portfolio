@@ -107,7 +107,18 @@ p {
 .project-description {
   padding: 120px 60px;
 }
+.logo {
+  max-width: 150px;
+}
+nav li {
+  display: inline;
+  list-style: none;
+}
 
+nav ul {
+  margin: 0;
+  padding: 0;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
