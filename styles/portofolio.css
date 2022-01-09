@@ -41,6 +41,9 @@ p {
   font-size: 16px;
   line-height: 30px;
 }
+.d-flex {
+  display: flex !important;
+}
 
 .hero {
   background: var(--secondary-color);
