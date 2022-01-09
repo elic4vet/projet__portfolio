@@ -55,7 +55,7 @@ p {
   color: #272142;
 }
 .hero h2 {
-  font-family: var(--default-font-family);
+  font-family: var(--heading-font-family);
   font-weight: normal;
   line-height: 1.5;
   font-size: 24px;
@@ -111,7 +111,7 @@ p {
   padding: 120px 60px;
 }
 .logo {
-  max-height: 100px;
+  max-height: 40px;
 }
 nav {
   padding: 20px 0;
